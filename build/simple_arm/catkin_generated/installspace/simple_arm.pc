@@ -1,8 +1,0 @@
-prefix=/home/AURIS.LOCAL/james.hennessy/Downloads/catkin_ws/install
-
-Name: simple_arm
-Description: Description of simple_arm
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
